@@ -25,7 +25,7 @@
   ```
   * **비고**
     * MinMaxScaler는 모든 컬럼의 값 범위를 [0, 1]로 한정하기 위한 것으로, 옵션 사항입니다.
-    * k값을 조절해가면서 최적의 k값을 찾을 필요가 있습니다.
+    * k값을 조절해가면서 최적값을 찾아야 합니다.
   * **출처**: [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/k-nearest-neighbors-knn-solving-classification-problems)
  ## NumPy 연습
   * **문제:** NumPy Exercise.ipynb의 각 셀에 알맞은 코드 넣기  
