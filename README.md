@@ -27,4 +27,4 @@
 ## :bookmark_tabs: 스터디 문서
 
 * [문제풀이]()
-* [위키]()
+* [위키](https://github.com/Cotidie/PNU-ML-Study/wiki)
