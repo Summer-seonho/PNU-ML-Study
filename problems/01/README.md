@@ -1,7 +1,7 @@
 # 1주차 문제
  ## 인터넷 사용량 예측 (KNN)
   * **문제:** 다음 특성값을 토대로 Heavy 유저인지, Light 유저인지 판단하는 KNN 모델을 작성하세요.
-    * 데이터셋: /datasets/internetlogit.csv
+    * 데이터셋: */datasets/internetlogit.csv*
   * **Features**: 각 데이터 포인트는 한 사람이다.
     * income: 매달 수입
     * videohours: 매주 동영상 시청량
