@@ -26,5 +26,5 @@
 
 ## :bookmark_tabs: 스터디 문서
 
-* [문제풀이]()
+* [문제풀이](https://github.com/Cotidie/PNU-ML-Study/blob/main/docs/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md)
 * [위키](https://github.com/Cotidie/PNU-ML-Study/wiki)
