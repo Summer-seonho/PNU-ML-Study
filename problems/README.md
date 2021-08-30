@@ -31,6 +31,7 @@
 > git push  
 ```
 6. Github > Pull Requests > New pull request를 통해 본인 브랜치를 master 브랜치로 Pull Request 합니다.
+![Pull Request](https://i.imgur.com/zvgXoaQ.png)
 	
  ## 직접 업로드
   위 과정이 귀찮거나 익숙치 않다면 Github에서 바로 add files > upload files로 올려주시면 됩니다.
