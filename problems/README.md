@@ -4,6 +4,7 @@
  ## 준비사항
  * (필수) git 설치: [바로가기](https://git-scm.com/download/win)
  * (옵션) git GUI 도구: sourcetree, Github Desktop 등  
+
  git 설치 후 로컬에 git 저장소를 불러옵니다. (clone)
   > (Git CLI)  
   > cd <원하는 폴더>  
