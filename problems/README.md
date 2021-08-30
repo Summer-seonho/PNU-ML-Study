@@ -14,6 +14,7 @@
   Git CLI(Git Bash) 기준입니다.   
 1. 먼저 원격 저장소(Github)와 동기화합니다.  
 ```bash
+> git checkout master
 > git pull  
 ```
 3. master 브랜치로부터 자신의 브랜치를 만듭니다.  
