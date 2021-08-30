@@ -22,6 +22,7 @@
 > git checkout -b <원하는 이름>  
 ```
 4. 문제풀이 파일을 본인이름 폴더에 넣은 후 커밋합니다.  
+ *ex) 1주차 : /problems/01/<본인이름>/<답안파일>*
 ```bash
 > git add .  
 > git commit -m "작성할 메시지"  
