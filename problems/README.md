@@ -18,21 +18,27 @@
 > git checkout main
 > git pull  
 ```
-3. main 브랜치로부터 자신의 브랜치를 만듭니다.  
+2. main 브랜치로부터 자신의 브랜치를 만듭니다.  
 ```bash
 > git checkout -b <원하는 이름>  
 ```
-4. 문제풀이 파일을 본인이름 폴더에 넣은 후 커밋합니다.  
+3. 문제풀이 파일을 본인이름 폴더에 넣은 후 커밋합니다.  
  *ex) 1주차 : /problems/01/<본인이름>/<답안파일>*
 ```bash
 > git add .  
 > git commit -m "작성할 메시지"  
 ```
-5. 원격 저장소에 업로드합니다.  
+4. 원격 저장소에 업로드합니다.  
 ```bash
 > git push  
 ```
-6. Github > Pull Requests > New pull request를 통해 본인 브랜치를 master 브랜치로 Pull Request 합니다.
+:exclamation: 브랜치 생성 후 첫 push라면 다음 명령어를 이용해야 합니다.
+```bash
+# 원격저장소(origin)의 <브랜치명> 브랜치와 로컬의 현재 브랜치를 연동
+# 이때, 원격저장소에 해당 브랜치가 없다면 자동으로 생성된다.
+> git push -u origin <브랜치명>
+```
+5. Github > Pull Requests > New pull request를 통해 본인 브랜치를 master 브랜치로 Pull Request 합니다.
 ![Pull Request](https://i.imgur.com/zvgXoaQ.png)
 	
  ## 직접 업로드
