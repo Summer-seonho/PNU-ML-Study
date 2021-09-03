@@ -12,7 +12,7 @@
   > cd PNU-ML-Study
  
  ## Pull Request
-  Git CLI(Git Bash) 기준입니다.   
+  Git CLI(Git Bash) 기준입니다. GUI를 활용하는 경우에도 똑같은 절차를 밟으면 됩니다.
 1. 먼저 원격 저장소(Github)와 동기화합니다.  
 ```bash
 > git checkout main      # main 브랜치로 이동합니다.
